@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @STRING_TO_REPLACE_THE_KEY
 - 👀 I’m interested in ... Linux, FOSS
 - 🌱 I’m currently learning ... GitLab CI, Ansible, Docker
+- 📫 How to reach me ... [STRING_TO_REPLACE_THE_KEY](t.meSTRING_TO_REPLACE_THE_KEY) on Telegram
 
 <!---
 - 💞️ I’m looking to collaborate on ... 
