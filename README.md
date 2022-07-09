@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @STRING_TO_REPLACE_THE_KEY
 - 👀 I’m interested in ... Linux, FOSS
-- 🌱 I’m currently learning ... kubernetes, ansible
+- 🌱 I’m currently learning ... GitLab CI, Ansible, Docker
 
 <!---
 - 💞️ I’m looking to collaborate on ... 
